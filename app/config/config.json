@@ -1,0 +1,4 @@
+{
+    "node_port": 3000,
+    "cassandra_contactPoints": ["127.0.0.1:9042"]
+}
